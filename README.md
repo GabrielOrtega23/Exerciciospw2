@@ -3,7 +3,7 @@
 
 ## Exercício 1 — Tabuada
 Projeto que gera a tabuada de um número informado pelo usuário.
-https://github.com/user-attachments/assets/b3e623dc-570c-41ab-85a0-9b1cde469d11
+https://github.com/user-attachments/assets/b3e623dc-570c-41ab-85a0-9b1cde469d11.mp4
 
 
 ## Exercício 2 — Valor com desconto
