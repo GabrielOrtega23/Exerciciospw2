@@ -3,11 +3,11 @@
 
 ## Exercício 1 — Tabuada
 Projeto que gera a tabuada de um número informado pelo usuário.
-https://github.com/user-attachments/assets/880828ce-09b3-4ec4-b884-2348db787f00
+
 
 ## Exercício 2 — Valor com desconto
 Calcula o valor final de um produto aplicando desconto percentual.
-[ex2.webm](https://github.com/user-attachments/assets/30aff446-f4a2-4f66-ba49-5a8fbbff3483)
+
 
 ## Exercício 3 — Aprovado ou reprovado
 Verifica se o aluno foi aprovado com base na média.
