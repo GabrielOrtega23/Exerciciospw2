@@ -2,8 +2,7 @@
 <h1>Exercicios PW2</h1>
 <br>
 <p>Exercicio1 - Tabuada</p>
-https://github.com/user-attachments/assets/eb81debf-49de-44e5-a3a1-53b87cc53109
-
+https://github.com/user-attachments/assets/799547a1-99f7-41b7-a328-c6946319acaa
 <br>
 <p>Exercicio2 - Valor com desconto</p>
 
