@@ -1,9 +1,7 @@
 <h1>Exercicios PW2</h1>
 <br>
 <p>Exercicio1 - Tabuada</p>
-[ex1.webm](https://github.com/user-attachments/assets/490f6d8d-c15d-4b87-9ac6-21ca1801e2ef)
-
-
+https://github.com/user-attachments/assets/47475181-a420-4364-a666-89c7d6e55d68
 <br>
 <p>Exercicio2 - Valor com desconto</p>
 
