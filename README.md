@@ -1,11 +1,12 @@
 <h1>Exercicios PW2</h1>
 <br>
 <p>Exercicio1 - Tabuada</p>
-[Screencast from 2026-05-23 20-53-42.webm](https://github.com/user-attachments/assets/470acc84-3686-4fc9-9b6f-1251ce83a84e)
+[ex1.webm](https://github.com/user-attachments/assets/490f6d8d-c15d-4b87-9ac6-21ca1801e2ef)
+
 
 <br>
 <p>Exercicio2 - Valor com desconto</p>
-[ex2.webm](https://github.com/user-attachments/assets/2c79576c-c7da-4743-ab23-4b18c5338c1c)
+
 <br>
 <p>Exercicio3 - Aprovado ou reprovado </p>
 
