@@ -1,37 +1,40 @@
 
-<h1>Exercicios PW2</h1>
-<br>
-<p>Exercicio1 - Tabuada</p>
+# Exercícios PW2
 
-<br>
-<p>Exercicio2 - Valor com desconto</p>
+## Exercício 1 — Tabuada
+Projeto que gera a tabuada de um número informado pelo usuário.
+https://github.com/user-attachments/assets/880828ce-09b3-4ec4-b884-2348db787f00
 
-<br>
-<p>Exercicio3 - Aprovado ou reprovado </p>
+## Exercício 2 — Valor com desconto
+Calcula o valor final de um produto aplicando desconto percentual.
 
-<br>
-<p>Exercicio4 - Troca dos números </p>
+## Exercício 3 — Aprovado ou reprovado
+Verifica se o aluno foi aprovado com base na média.
 
-<br>
-<p>Exercicio5 - Soma dos quadrados </p>
+## Exercício 4 — Troca dos números
+Realiza a troca de valores entre duas variáveis.
 
-<br>
-<p>Exercicio6 - Salário funcionário </p>
+## Exercício 5 — Soma dos quadrados
+Calcula a soma dos quadrados de três números.
 
-<br>
-<p>Exercicio7 - Média aritmética </p>
+## Exercício 6 — Salário do funcionário
+Calcula o salário final com possíveis adicionais.
 
-<br>
-<p>Exercicio8 - Maior e menor número </p>
+## Exercício 7 — Média aritmética
+Calcula a média de valores informados.
 
-<br>
-<p>Exercício9 - Soma dos números ímpares</p>
+## Exercício 8 — Maior e menor número
+Identifica o maior e o menor valor entre números digitados.
 
-<br>
-<p>Exercício10 - Número par ou ímpar</p>
+## Exercício 9 — Soma dos números ímpares
+Realiza a soma dos números ímpares em um intervalo.
 
-<br>
-<p>Exercício11 - Calculadora</p>
+## Exercício 10 — Número par ou ímpar
+Verifica se o número informado é par ou ímpar.
 
-<br>
-<p>Exercício12 - Números ímpares entre dois números</p>
+## Exercício 11 — Calculadora
+Executa operações matemáticas básicas.
+
+## Exercício 12 — Números ímpares entre dois números
+Mostra os números ímpares existentes entre dois valores.
+
